@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "Practice how to create and artifactory",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MColon1227/test.git"
+  },
   "scripts": {
     "test": "node test.js"
   },
