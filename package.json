@@ -1,0 +1,14 @@
+{
+  "name": "@mcolon/practiceartifactory",
+  "version": "1.0.0",
+  "description": "Practice how to create and artifactory",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
+}
